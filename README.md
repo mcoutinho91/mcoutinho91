@@ -1,84 +1,76 @@
-# 👋 Olá, eu sou o Marcos Coutinho!
+# Olá, eu sou o Marcos Coutinho 👋
+### Coordenador de TI & Encarregado de Proteção de Dados (DPO) | Liderança Técnica & Gestão Estratégica
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Criando+solu%C3%A7%C3%B5es+modernas+e+escal%C3%A1veis;Apaixonado+por+tecnologia+e+inov%C3%A7%C3%A3o" alt="Typing SVG" />
-</div>
-
-<br />
-
----
-
-### 👨‍💻 Sobre Mim
-
-- 🔭 **Atuação:** Desenvolvedor Full Stack com foco em construção de aplicações web eficientes, modernas e responsivas.
-- 🌱 **Aprendizado Contínuo:** Sempre aprofundando conhecimentos em arquitetura de software, novos frameworks e boas práticas de código.
-- 💡 **Interesses:** Resolução de problemas complexos, experiência do usuário (UX/UI), automação e engenharia de software.
-- 💬 **Pode me perguntar sobre:** Desenvolvimento web, integração de APIs, bancos de dados e boas práticas de desenvolvimento.
-- ⚡ **Filosofia:** *"Código limpo, arquitetura sólida e constante evolução."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoscoutinhoaraujo/)
+[![Website](https://img.shields.io/badge/Website-mcoutinho.com.br-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mcoutinho.com.br)
+[![Email](https://img.shields.io/badge/Email-marcoscoutinho%40live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoscoutinho@live.com)
+[![Role](https://img.shields.io/badge/Cargo-Coordenador%20de%20TI%20%26%20DPO-blueviolet?style=for-the-badge)](#)
+[![Education](https://img.shields.io/badge/Pós--Graduação-FIAP-red?style=for-the-badge)](#)
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+## 🚀 Sobre Mim & Filosofia de Gestão
 
-#### 💻 **Linguagens & Core**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Sou **Líder Técnico e Coordenador de TI** com mais de 8 anos à frente da estratégia de tecnologia, governança de infraestrutura e evolução de sistemas na **Fundepag** (Fundação de Desenvolvimento do Agronegócio). Além da coordenação de TI, atuo como **Encarregado de Proteção de Dados (DPO)**, garantindo conformidade, cibersegurança e governança regulatória.
 
-#### 🎨 **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Meu foco em gestão combina **visão estratégica, eficiência operacional e liderança centrada em pessoas**. Sou especializado em orquestrar ambientes de TI complexos — equilibrando plataformas legadas enterprise como o **TOTVS Protheus** com soluções web modernas e plataformas próprias de backoffice (Central Fundepag CSM).
 
-#### ⚙️ **Backend & Bancos de Dados**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🔧 **Ferramentas & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Atualmente expandindo meu repertório analítico e estratégico por meio da pós-graduação na **FIAP**, utilizo ativamente IA e insights orientados a dados para acelerar a tomada de decisão, otimizar processos de negócio e alinhar iniciativas de tecnologia diretamente aos objetivos organizacionais.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🎯 Pilares Principais de Liderança & Gestão
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcoutinho91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcoutinho91&layout=compact&theme=tokyonight&hide_progress=true"/>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcoutinho91&theme=tokyonight" alt="GitHub Streak" />
-</div>
+| Pilar | Foco Estratégico Principal |
+| :--- | :--- |
+| **Governança Estratégica & Conformidade** | Alinhamento das operações de TI à estratégia do negócio, gestão de fornecedores, governança de infraestrutura e conformidade integral à LGPD/Privacidade como DPO. |
+| **Liderança de Pessoas & Mentoria** | Desenvolvimento de equipes multidisciplinares, orientação de transições de carreira (infraestrutura para dev, onboarding de devs júniores, analistas de sistemas) e estruturação de fluxos ágeis. |
+| **Evolução de Sistemas & Processos** | Gestão do ecossistema de ERP legado (TOTVS Protheus) em conjunto com plataformas web próprias modernas (PHP/Laravel/MySQL) para melhoria contínua das operações. |
+| **Suporte à Tomada de Decisão Estratégica** | Uso de ferramentas de IA, análise sistêmica e frameworks operacionais para impulsionar decisões de alto impacto e alinhamento interdepartamental. |
 
 ---
 
-### 📫 Conecte-se Comigo
+## 💼 Experiência Profissional & Gestão
 
-<div align="left">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+### 🏢 Coordenador de TI & Encarregado de Proteção de Dados (DPO)
+**Fundepag** | *Jun/2018 – Presente*
+
+- **Liderança Estratégica de TI:** Gestão e governança de infraestrutura, desenvolvimento web, manutenção de sistemas internos e relacionamento com fornecedores em todas as iniciativas da fundação.
+- **Proteção de Dados & Conformidade (DPO):** Liderança das políticas de segurança da informação, programa de conformidade com a LGPD e estratégias de gestão de riscos nas operações institucionais.
+- **Estratégia de ERP & Plataformas Próprias:** Direcionamento da gestão e evolução contínua do:
+  - **TOTVS Protheus ERP:** Gestão de módulos padrão e customizações para suporte aos fluxos administrativos e financeiros.
+  - **Central Fundepag (CSM):** Gestão da plataforma web interna em PHP/Laravel sob medida para os processos de backoffice da fundação.
+- **Desenvolvimento e Capacitação da Equipe:** Estruturação dos papéis da equipe em infraestrutura, análise de sistemas (Protheus/ADVPL) e desenvolvimento web (PHP/Laravel), promovendo evolução contínua e eficiência nas entregas.
 
 ---
 
-<div align="center">
-  <sub>Criado com 💙 por <b>Marcos Coutinho</b></sub>
-</div>
+## 🛠️ Ecossistema Tecnológico & Gestão
+
+### 📊 Governança, Operações & Ferramentas
+![Governança de TI](https://img.shields.io/badge/Governan%C3%A7a_de_TI-Infraestrutura_%26_SLA-blue?style=flat-square)
+![LGPD e Conformidade](https://img.shields.io/badge/Seguran%C3%A7a-LGPD_%26_DPO-green?style=flat-square)
+![Gestão de Fornecedores](https://img.shields.io/badge/Gest%C3%A3o-Fornecedores_%26_Contratos-orange?style=flat-square)
+![Otimização de Processos](https://img.shields.io/badge/Opera%C3%A7%C3%B5es-Melhoria_de_Processos-purple?style=flat-square)
+
+### 💻 Sistemas Enterprise & Stack Tecnológica
+![TOTVS Protheus](https://img.shields.io/badge/ERP-TOTVS_Protheus-004B87?style=flat-square)
+![PHP](https://img.shields.io/badge/Web-PHP_%2F_Laravel-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/Banco_de_Dados-MySQL_%2F_MariaDB-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Infraestrutura](https://img.shields.io/badge/Infra_de_TI-Servidores_%26_Redes-0052CC?style=flat-square)
+
+---
+
+## 🎓 Formação Acadêmica & Aprendizado Contínuo
+
+- **Pós-Graduação** | **FIAP** 
+  - Foco em casos corporativos, integração tecnológica e transformação digital estratégica.
+- **Prática Contínua em IA e Gestão:**
+  - Adoção ativa de frameworks de assistentes de IA para apoio à tomada de decisão estratégica, documentação de processos e suporte tático de gestão.
+
+---
+
+## 📫 Vamos nos Conectar!
+
+- 🌐 **Site Pessoal:** [mcoutinho.com.br](https://mcoutinho.com.br)
+- 💼 **LinkedIn:** [linkedin.com/in/marcoscoutinhoaraujo](https://www.linkedin.com/in/marcoscoutinhoaraujo/)
+- ✉️ **E-mail:** [marcoscoutinho@live.com](mailto:marcoscoutinho@live.com)
