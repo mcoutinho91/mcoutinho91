@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-mcoutinho.com.br-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mcoutinho.com.br)
 [![Email](https://img.shields.io/badge/Email-marcoscoutinho%40live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoscoutinho@live.com)
 [![Role](https://img.shields.io/badge/Cargo-Coordenador%20de%20TI%20%26%20DPO-blueviolet?style=for-the-badge)](#)
-[![Education](https://img.shields.io/badge/Pós--Graduação-IAparaNegócios-red?style=for-the-badge)](http://postech.fiap.com.br/curso/ia-para-negocios)
+[![Education](https://img.shields.io/badge/Pós--Graduação-IA--para--Negócios-red?style=for-the-badge)](http://postech.fiap.com.br/curso/ia-para-negocios)
 
 ---
 
