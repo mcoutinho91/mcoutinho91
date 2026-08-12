@@ -9,11 +9,11 @@
 
 ---
 
-## 🚀 Sobre Mim & Filosofia de Gestão
+## 🚀 Sobre Mim
 
-Sou **Líder Técnico e Coordenador de TI** com mais de 8 anos à frente da estratégia de tecnologia, governança de infraestrutura e evolução de sistemas na **Fundepag** (Fundação de Desenvolvimento do Agronegócio). Além da coordenação de TI, atuo como **Encarregado de Proteção de Dados (DPO)**, garantindo conformidade, cibersegurança e governança regulatória.
+**Coordenador de TI, Líder Técnico e DPO** com mais de 15 anos de experiência na área de Tecnologia da Informação. Atuo na c**ondução estratégica e operacional** de infraestrutura, governança, inteligência de dados, desenvolvimento e segurança da informação. À frente do time de tecnologia da **Fundepag**, direciono a evolução dos sistemas institucionais e acumulo a função de **Encarregado de Proteção de Dados (DPO)**, garantindo a conformidade regulatória (LGPD), cibersegurança e governança da informação.
 
-Meu foco em gestão combina **visão estratégica, eficiência operacional e liderança centrada em pessoas**. Sou especializado em orquestrar ambientes de TI complexos — equilibrando plataformas legadas enterprise como o **TOTVS Protheus** com soluções web modernas e plataformas próprias de backoffice (Central Fundepag CSM).
+Meu foco em gestão combina **visão estratégica, eficiência operacional e liderança centrada em pessoas**. Sou especializado em orquestrar ambientes de TI complexos — equilibrando plataformas legadas como o **ERP Protheus** com soluções web modernas e plataformas próprias de backoffice (**Central Fundepag**).
 
 Atualmente expandindo meu repertório analítico e estratégico por meio da pós-graduação na **FIAP**, utilizo ativamente IA e insights orientados a dados para acelerar a tomada de decisão, otimizar processos de negócio e alinhar iniciativas de tecnologia diretamente aos objetivos organizacionais.
 
@@ -24,8 +24,8 @@ Atualmente expandindo meu repertório analítico e estratégico por meio da pós
 | Pilar | Foco Estratégico Principal |
 | :--- | :--- |
 | **Governança Estratégica & Conformidade** | Alinhamento das operações de TI à estratégia do negócio, gestão de fornecedores, governança de infraestrutura e conformidade integral à LGPD/Privacidade como DPO. |
-| **Liderança de Pessoas & Mentoria** | Desenvolvimento de equipes multidisciplinares, orientação de transições de carreira (infraestrutura para dev, onboarding de devs júniores, analistas de sistemas) e estruturação de fluxos ágeis. |
-| **Evolução de Sistemas & Processos** | Gestão do ecossistema de ERP legado (TOTVS Protheus) em conjunto com plataformas web próprias modernas (PHP/Laravel/MySQL) para melhoria contínua das operações. |
+| **Liderança de Pessoas & Mentoria** | Desenvolvimento de equipes multidisciplinares, orientação de transições de carreira e estruturação de fluxos ágeis. |
+| **Evolução de Sistemas & Processos** | Gestão do ecossistema de ERP legado (Protheus) em conjunto com  plataformas web próprias modernas (PHP/Laravel/MySQL) para melhoria contínua das operações. |
 | **Suporte à Tomada de Decisão Estratégica** | Uso de ferramentas de IA, análise sistêmica e frameworks operacionais para impulsionar decisões de alto impacto e alinhamento interdepartamental. |
 
 ---
